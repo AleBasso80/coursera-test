@@ -54,5 +54,6 @@ body {
 }
 #text-container .h2{
   font-size: 1.5em;
+  font-weight: bold;
 }
 /* END MAIN CONTENT */
