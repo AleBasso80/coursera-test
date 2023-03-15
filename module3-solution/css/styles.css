@@ -1,0 +1,58 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+.container{
+  width:100%;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #65bbe2;
+  border-radius: 0;
+  border: 0;
+  min-width: 300px;
+}
+.navbar-brand a h1 {
+  font-family: 'Lora', serif;
+  color: #e0d317;
+  font-size: 1.7em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  line-height: .75;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#nav-list a {
+  color: #e0d317;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+/* END HEADER */
+
+/** MAIN CONTENT **/
+#main-title {
+  font-size: 4em;
+}
+#text-container{
+  background-color: aquamarine;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 15px;
+  height: 1000px;
+  min-width: 300px;
+  overflow: hidden;
+}
+#text-container .h2{
+  font-size: 1.5em;
+}
+/* END MAIN CONTENT */
